@@ -43,7 +43,7 @@ Fig 4: Geo-accumulation (Igeo) of respective metals in riverine sediment
 As seen from this figure, the Igeo of Cd was the largest, with 16.7% below the uncontaminated to moderately contaminated level, 10% at the moderately contaminated level, 16.7% at the moderately to heavy contaminated level, 46.6% at the heavily contaminated level and 10% at the heavily to extremely contaminated level. In addition to this, both As, and Pb reached a moderate contamination level of 20%. 
 </div>
 <p align="center">
-<img width="1329" height="1183" alt="ChatGPT Image Jul 27, 2026, 09_19_02 AM" src="https://github.com/user-attachments/assets/ff236734-7a85-4e11-a400-d0a5bde201af" />
+<img width="700" height="auto" alt="RISK INDEX (RI)" src="https://github.com/user-attachments/assets/e7e9c090-953c-46b4-b166-22ca8e3d6ad8" />
 </p>
 <p align="center">
 Fig 5: Contributions of respective metals to the Risk Index (RI)
@@ -52,7 +52,7 @@ Fig 5: Contributions of respective metals to the Risk Index (RI)
 Approximately 48.5% of Cd is attributed to the potential ecological risk (RI) in the up-mid-downstream river segments. The high Cd Igeo values also triggered a high RI index. Further, Ni and As contributed 26% and 21 % of the potential ecological risk, respectively.
 </div>
 <p align="center">
-<img width="307" height="255" alt="EF" src="https://github.com/user-attachments/assets/a5e0e6cc-2d10-4809-9daa-63ef2d30ab1f" />
+<img width="700" height="auto" alt="EF ri" src="https://github.com/user-attachments/assets/aaea36d6-3c29-4fb9-9bff-dfc81a434cae" />
 </p>
 <p align="center">
 Fig 6: Contribution of Enrichment Factor (EF) of respective metals in riverine sediment
@@ -61,14 +61,16 @@ Fig 6: Contribution of Enrichment Factor (EF) of respective metals in riverine s
 As shown from the fig that, the EF index of Cd was the highest, with 10% at minor enrichment, 6.7 % at moderate enrichment, 10 % at moderately severe enrichment, 26.7 % severe enrichment, 46.7 % at very severe to extremely severe enrichment. In this study, EF values were between 1 and 3 (1 ≤ EF < 3; minor enrichment) in most of the river segments. Moreover, Pb, As, and Cu reached an extremely severe enrichment of 20%, 16.7 and 16.7 %, respectively.
 </div>
 <p align="center">
-<img width="1448" height="1086" alt="ChatGPT Image Jul 27, 2026, 09_12_09 AM" src="https://github.com/user-attachments/assets/ef0cb838-9e7b-4e70-aac7-22f9c4e6eab9" />
+<img width="700" height="auto" alt="tu ri" src="https://github.com/user-attachments/assets/8ab73642-ac7f-483d-983b-a3070636431d" />
 </p>
   <p align="center">
   Fig 7: Contributions of respective metals to the Toxicity Unit (TU)
     </p>
+  <br>
 <div align="justify">
 The toxicity and total toxicity contribution percentage among nine metals, the total STU index of metals in the sediments were followed in the descending order: Zn>Cd>As>Pb>Cr>Ni and Cu. Moreover, Zn, Cd and As contributed 17.5%, 16 % and 15.8% of total STU risk, respectively. 
 </div>
+    <br>
 <p align="center">
 <img width="690" height="608" alt="FactorContribution 1 (%)" src="https://github.com/user-attachments/assets/beaf2dbb-9b67-48c0-aa86-cd477b656606" />
 </p>
@@ -78,6 +80,7 @@ The toxicity and total toxicity contribution percentage among nine metals, the t
 <div align="justify">
 In details of, the PMF model outcomes for sources, and factor profiles are presented in the fig. Factor 1 was principally represented by Cu and had a 78.9% contribution. Factor 1 also showed a high contribution to arsenic (62.8%). Lead, Cr, and Zn exhibited a low contribution by factor 1 of 16.2%, 18.1%, and 21.9%, respectively. Factor 2 was primarily characterized by Ni and Mn with 96.9% and 83.5% contributions, respectively. Factor 2 also exhibited a medium contribution to Pb (39.7%) and Zn (38.3%). Factor 3 was mostly characterized by Cd and had a 67.4% contribution. Iron and Cr showed a high contribution by factor 4 of 53.5 % and 64.3%, respectively.
 </div>
+    <br>
 <p align="center">
   <img width="549" height="608" alt="Conc+Regression 1" src="https://github.com/user-attachments/assets/fbc2a3b8-e771-4587-8f58-bd6e09b4b1bf" />
 </p>
@@ -87,6 +90,7 @@ In details of, the PMF model outcomes for sources, and factor profiles are prese
 <div align="justify">
 Predicted metal datasets were compared to measured metal datasets based on the PMF model the fig. The r2 values were utilized to appraise the efficiency of the PMF model predictions. All metals depicted rational linear regression outcomes with r2 values higher than 0.592. The greater r2 values were detected for Cd (0.996), Mn (0.995), Fe (0.969) and Cr (0.828), demonstrating that the metal datasets forecasted by the preferred source factors were well described in the PMF model. The r2 values for Zn were only 0.137 when all datasets were considered; however, it was strongly affected by a single outlier at location S13 (631.4 mg kg−1 and 4 times higher than the mean Zn concentration)
 </div>
+      <br>
 <p align="center">
  <img width="685" height="608" alt="Spplementary Regression 2" src="https://github.com/user-attachments/assets/0e6a5da4-37b7-499f-938e-30b1fa95e23c" />
 </p> 
@@ -96,6 +100,3 @@ Fig 10: Comparison of measured and predicted concentrations of Zn in surface sed
 <div align="justify">
 In this study, the location S13 was positioned in the industrial area surround by urban area and agricultural land use, where the non-point source can be detected. The enormously high Zn concentration may be ascribed to a sudden urban runoff source and thus the high Zn was not related to exhibit land-use patterns. 
 </div>
-  
-# References
-
