@@ -24,11 +24,14 @@ The heavy metal pollution in the riverine sediments has been a serious concern f
 
 ## Skills
 
-Excel: Data cleaning, Data processing, Uncertainty analysis, Toxicity Unit (TU), Risk index (RI), Geoaccumulation Index (Igeo), Enrichment Factor (EF)
-Positive Matrix Factorization (PMF): Base model, Error estimation, Residual analysis, Profile contribution
-MATLAB: Linear fit, scatter plot, Donut chart, pie chart, Plot gallery
+- Microsoft Excel: Data cleaning, Data processing, Uncertainty analysis, Toxicity Unit (TU), Risk index (RI), Geoaccumulation Index (Igeo), Enrichment Factor (EF)
+- Positive Matrix Factorization (PMF): Base model, Error estimation, Residual analysis, Profile contribution
+- MATLAB: Linear fit, scatter plot, Donut chart, pie chart, Plot gallery
 
 ## Results & Recommendations
+
+<img width="1920" height="1080" alt="Agricultural Source" src="https://github.com/user-attachments/assets/d186adf2-5066-4504-ad84-b5fcfc2f57b8" />
+
 
 The Positive Matrix Factorization (PMF) tool suggested that there are 4 key sources for heavy metal pollution in the up-mid-downstream river section of Bangladesh. The key contributors of the sources are:
 
@@ -36,6 +39,11 @@ The Positive Matrix Factorization (PMF) tool suggested that there are 4 key sour
 2. Anthropogenic point source- Ni (Nickel) and Mn (Manganese) (Urban wastewater discharge, Municipal runoff; Mostly in the upstream region)
 3. Industrial emissions - Cd (Cadmium) (Manufacturing plant, welding, electroplating; Mostly in the downstream region)
 4. Mixed source - Cr (Chromium) and Fe (Ferrum/Iron) (Geogenic activity, agriculture, tannery, textile; Mostly in the downstream region)
+   
+
+
+
+<img width="1920" height="1080" alt="Cd is the key pollutant" src="https://github.com/user-attachments/assets/098c0505-ef0a-4088-8df7-58e4d1d65ea1" />
 
 Additionally, four chemical fractions of heavy metals are present: exchangeable, reducible, organic, and residual (not bioavailable, Lower environmental risk). Among these,  exchangeable fractions are bioavailable and poses high environmental risk, whereas residuals are not bioavailable and show lower environmental risk. From this study, it is found that  exchangeable fractionation percentage is higher in most of the heavy metals (40%-60). 
 
@@ -49,10 +57,10 @@ From the Igeo, EF, RI, and fractionation analysis, it was found that the riverin
 
 The profile of Cd is presented below: 
 
-Igeo- 46% Heavy contamination
-EF- 65% contributionl; 46% Extremely severe enrichment
-RI- 48% contribution
-Toxicity Unit- 16% contribution
+- Igeo- 46% Heavy contamination
+- EF- 65% contributionl; 46% Extremely severe enrichment
+- RI- 48% contribution
+- Toxicity Unit- 16% contribution
 
 Besides Cd, Zn (17.5%) and As (15.8%) are responsible for the toxic effects on the organisms. 
 
