@@ -26,7 +26,8 @@ The heavy metal pollution in the riverine sediments has been a serious concern f
 - Microsoft Excel: Data cleaning, Data processing, Uncertainty analysis, Toxicity Unit (TU), Risk index (RI), Geoaccumulation Index (Igeo), Enrichment Factor (EF)
 - Positive Matrix Factorization (PMF): Base model, Error estimation, Residual analysis, Profile contribution
 - MATLAB: Linear fit, scatter plot, Donut chart, pie chart, Plot gallery
-
+- SPSS: Principal component analysis (PCA), ANOVA test
+  
 ## Results & Recommendations
 <p align="center">
 <img width="1920" height="1080" alt="Agricultural Source" src="https://github.com/user-attachments/assets/d186adf2-5066-4504-ad84-b5fcfc2f57b8" />
