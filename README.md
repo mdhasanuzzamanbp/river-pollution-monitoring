@@ -18,8 +18,9 @@ The heavy metal pollution in the riverine sediments has been a serious concern f
 ## Methodology
 1. Processed, cleaned, formatted, and analysed sediment concentration and detection data in Excel.
 2. Extracted and prepared concentration and uncertainty data for EPA-PMF.
-3. Performed the PMF simulation for extracting the pollution source.
-4. Visualized the extracted data in MATLAB.
+3. Identified number of sources with PCA (Principal Component Analysis) method by SPSS
+4. Performed the PMF simulation for extracting the pollution source.
+5. Visualized the extracted data in MATLAB.
 
 ## Skills
 
