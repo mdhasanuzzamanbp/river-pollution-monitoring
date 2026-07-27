@@ -15,7 +15,7 @@ The basic statistics (mean and standard deviation) of physicochemical parameters
 </div>
   <br>
 <p align="center">
-<img width="4044" height="6684" alt="RSP+Monte Carlo Final Edit" src="https://github.com/user-attachments/assets/5d7a2c0a-b8e8-4678-909e-7a636aca5621" />
+<img src="https://github.com/user-attachments/assets/5d7a2c0a-b8e8-4678-909e-7a636aca5621" alt="RSP+Monte Carlo Final Edit" width="600">
 </p>
 <p align="center">
 Fig 2: (a) Metal chemical fraction in riverine sediments for 30 sampling sites using (b) Donut risk chart of the respective metals in up-mid-downstream river systems
