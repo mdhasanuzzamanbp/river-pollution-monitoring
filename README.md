@@ -1,7 +1,7 @@
 # Upstream, Midstream, and Downstream River Pollution Monitoring Project with the Bangladesh Atomic Energy Commission and Begum Rokeya University (2020)
 
 <p align="center">
-<img width="700" height="AUTO" alt="Graphical Abstract Final 2" src="https://github.com/user-attachments/assets/f594b0a2-da34-4fb5-8d48-daf77484906d" />
+<img width="500" height="AUTO" alt="Graphical Abstract Final 2" src="https://github.com/user-attachments/assets/f594b0a2-da34-4fb5-8d48-daf77484906d" />
 </p>
 
 ## Executive Summary
