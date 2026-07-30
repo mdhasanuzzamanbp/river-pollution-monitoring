@@ -1,5 +1,6 @@
 # Upstream, Midstream, and Downstream River Pollution Monitoring Project with the Bangladesh Atomic Energy Commission and Begum Rokeya University (2020)
 
+
 ## Executive Summary
 
 Using Excel, MATLAB, and Positive Matrix Factorization (PMF), I explored the spatial characterization of pollutants in sediments to evaluate metal fractions, potential ecotoxicological risks, co-occurrences and identify sources of nine potentially toxic metals in the up-mid-downstream river system, Bangladesh. Most of my work on this project was published later in the Journal of Environmental Toxicology and Chemistry.  
